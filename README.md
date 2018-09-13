@@ -11,3 +11,5 @@
 4. 给定一个罗马数字，将其转换成整数。输入确保在 1  到 3999 的范围内。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/13.roman-to-integer.js)
 
 5. 给定一个只包括 '('，')'，'{'，'}'，'['，']'  的字符串，判断字符串是否有效,左右括号必须匹配。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/20.valid-parentheses.js)
+
+6. 编写一个函数来查找字符串数组中的最长公共前缀。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/14.longest-common-prefix.js)
