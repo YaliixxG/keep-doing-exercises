@@ -23,3 +23,5 @@
 10. 给定一个排序数组和一个目标值，在数组中找到目标值，并返回其索引。如果目标值不存在于数组中，返回它将会被按顺序插入的位置。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/35.search-insert-position.js)
 
 11. 给定一个正整数 n（1 ≤ n ≤ 30），输出报数序列的第 n 项。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/38.count-and-say.js)
+
+12. 给定一个整数数组 nums ，找到一个具有最大和的连续子数组（子数组最少包含一个元素），返回其最大和。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/53.maximum-subarray.js)
