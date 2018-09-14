@@ -13,3 +13,5 @@
 5. 给定一个只包括 '('，')'，'{'，'}'，'['，']'  的字符串，判断字符串是否有效,左右括号必须匹配。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/20.valid-parentheses.js)
 
 6. 编写一个函数来查找字符串数组中的最长公共前缀。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/14.longest-common-prefix.js)
+
+7. 给定一个排序数组，你需要在原地删除重复出现的元素，使得每个元素只出现一次，返回移除后数组的新长度。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/26.remove-duplicates-from-sorted-array.js)
