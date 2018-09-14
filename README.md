@@ -21,3 +21,5 @@
 9. 给定一个  haystack 字符串和一个 needle 字符串，在 haystack 字符串中找出 needle 字符串出现的第一个位置(从 0 开始)。如果不存在，则返回   -1。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/28.implement-strstr.js)
 
 10. 给定一个排序数组和一个目标值，在数组中找到目标值，并返回其索引。如果目标值不存在于数组中，返回它将会被按顺序插入的位置。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/35.search-insert-position.js)
+
+11. 给定一个正整数 n（1 ≤ n ≤ 30），输出报数序列的第 n 项。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/38.count-and-say.js)
