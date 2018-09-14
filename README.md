@@ -19,3 +19,5 @@
 8. 给定一个数组 nums  和一个值 val，你需要原地移除所有数值等于  val  的元素，返回移除后数组的新长度。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/27.remove-element.js)
 
 9. 给定一个  haystack 字符串和一个 needle 字符串，在 haystack 字符串中找出 needle 字符串出现的第一个位置(从 0 开始)。如果不存在，则返回   -1。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/28.implement-strstr.js)
+
+10. 给定一个排序数组和一个目标值，在数组中找到目标值，并返回其索引。如果目标值不存在于数组中，返回它将会被按顺序插入的位置。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/35.search-insert-position.js)
