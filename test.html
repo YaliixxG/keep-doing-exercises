@@ -10,23 +10,17 @@
 
 <body>
     <script>
-        var removeDuplicates = function (nums) {
+        var removeElement = function (nums, val) {
             for (let i = 0; i < nums.length; i++) {
-                for (let k = i + 1; k < nums.length; k++) {
-                    if (nums[i] == nums[k]) {
-                        nums.splice(k, 1)
-                        k--
-                        console.log(111111)
-                    }
-                    console.log(2222)
+                if (nums[i] == val) {
+                    nums.splice(i, 1)
+                    i--
                 }
-                console.log(333333)
             }
-            console.log(nums, 'nums')
-            return nums
+            console.log(nums)
         }
 
-        removeDuplicates([1, 1])
+        removeElement([3, 2, 2, 3], 3)
 
 
 
