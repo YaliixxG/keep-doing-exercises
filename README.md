@@ -25,3 +25,5 @@
 11. 给定一个正整数 n（1 ≤ n ≤ 30），输出报数序列的第 n 项。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/38.count-and-say.js)
 
 12. 给定一个整数数组 nums ，找到一个具有最大和的连续子数组（子数组最少包含一个元素），返回其最大和。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/53.maximum-subarray.js)
+
+13. 给定一个仅包含大小写字母和空格 ' ' 的字符串，返回其最后一个单词的长度。如果不存在最后一个单词，请返回 0 。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/58.length-of-last-word.js)
