@@ -26,4 +26,6 @@
 
 12. 给定一个整数数组 nums ，找到一个具有最大和的连续子数组（子数组最少包含一个元素），返回其最大和。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/53.maximum-subarray.js)
 
-13. 给定一个由整数组成的非空数组所表示的非负整数，在该数的基础上加一。最高位数字存放在数组的首位， 数组中每个元素只存储一个数字。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/66.plus-one.js)
+13. 给定一个仅包含大小写字母和空格  ' '  的字符串，返回其最后一个单词的长度。如果不存在最后一个单词，请返回 0 。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/58.length-of-last-word.js)
+
+14. 给定一个由整数组成的非空数组所表示的非负整数，在该数的基础上加一。最高位数字存放在数组的首位， 数组中每个元素只存储一个数字。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/66.plus-one.js)
