@@ -31,3 +31,5 @@
 14. 给定一个由整数组成的非空数组所表示的非负整数，在该数的基础上加一。最高位数字存放在数组的首位， 数组中每个元素只存储一个数字。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/66.plus-one.js)
 
 15. 假设你正在爬楼梯。需要 n  阶你才能到达楼顶。每次你可以爬 1 或 2 个台阶。你有多少种不同的方法可以爬到楼顶呢？[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/70.climbing-stairs.js)
+
+16. 给定两个二进制字符串，返回他们的和（用二进制表示）。输入为非空字符串且只包含数字  1  和  0。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/67.add-binary.js)
