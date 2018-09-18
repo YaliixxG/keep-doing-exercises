@@ -35,3 +35,5 @@
 16. 给定两个二进制字符串，返回他们的和（用二进制表示）。输入为非空字符串且只包含数字  1  和  0。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/67.add-binary.js)
 
 17. 实现  int sqrt(int x)  函数。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/69.sqrtx.js)
+
+18. 给定两个有序整数数组  nums1 和 nums2，将 nums2 合并到  nums1  中，使得  num1 成为一个有序数组（注意：需改变原始数组方法）[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/88.merge-sorted-array.js)
