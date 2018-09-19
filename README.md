@@ -39,3 +39,5 @@
 18. 给定两个有序整数数组  nums1 和 nums2，将 nums2 合并到  nums1  中，使得  num1 成为一个有序数组（注意：需改变原始数组方法）[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/88.merge-sorted-array.js)
 
 19. 给定一个非空整数数组，除了某个元素只出现一次以外，其余每个元素均出现两次。找出那个只出现了一次的元素。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/136.single-number.js)
+
+20. 给定一个非负整数  numRows，生成杨辉三角的前  numRows  行。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/118.pascals-triangle.js)
