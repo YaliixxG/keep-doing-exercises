@@ -41,3 +41,5 @@
 19. 给定一个非空整数数组，除了某个元素只出现一次以外，其余每个元素均出现两次。找出那个只出现了一次的元素。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/136.single-number.js)
 
 20. 给定一个非负整数  numRows，生成杨辉三角的前  numRows  行。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/118.pascals-triangle.js)
+
+21. 给定一个数组，它的第  i 个元素是一支给定股票第 i 天的价格。如果你最多只允许完成一笔交易（即买入和卖出一支股票），设计一个算法来计算你所能获取的最大利润。注意你不能在买入股票前卖出股票。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/121.best-time-to-buy-and-sell-stock.js)
