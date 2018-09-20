@@ -45,3 +45,5 @@
 21. 给定一个非负索引  k，其中 k ≤ 33，返回杨辉三角的第 k 行。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/119.pascals-triangle-ii.js)
 
 22. 给定一个数组，它的第  i 个元素是一支给定股票第 i 天的价格。如果你最多只允许完成一笔交易（即买入和卖出一支股票），设计一个算法来计算你所能获取的最大利润。注意你不能在买入股票前卖出股票。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/121.best-time-to-buy-and-sell-stock.js)
+
+23. 设计一个支持 push，pop，top 操作，并能在常数时间内检索到最小元素的栈。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/155.min-stack.js)
