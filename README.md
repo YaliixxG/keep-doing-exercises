@@ -49,3 +49,5 @@
 23. 设计一个支持 push，pop，top 操作，并能在常数时间内检索到最小元素的栈。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/155.min-stack.js)
 
 24. 给定一个已按照升序排列的有序数组，找到两个数使得它们相加之和等于目标数。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/167.two-sum-ii-input-array-is-sorted.js)
+
+25. 给定一个正整数，返回它在 Excel 表中相对应的列名称。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/168.excel-sheet-column-title.js)
