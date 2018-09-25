@@ -51,3 +51,5 @@
 24. 给定一个已按照升序排列的有序数组，找到两个数使得它们相加之和等于目标数。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/167.two-sum-ii-input-array-is-sorted.js)
 
 25. 给定一个正整数，返回它在 Excel 表中相对应的列名称。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/168.excel-sheet-column-title.js)
+
+26. 给定一个大小为 n 的数组，找到其中的众数。众数是指在数组中出现次数大于  ⌊ n/2 ⌋  的元素。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/169.majority-element.js)
