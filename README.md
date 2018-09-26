@@ -55,3 +55,5 @@
 26. 给定一个大小为 n 的数组，找到其中的众数。众数是指在数组中出现次数大于  ⌊ n/2 ⌋  的元素。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/169.majority-element.js)
 
 27. 给定一个整数 n，返回 n! 结果尾数中零的数量。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/172.factorial-trailing-zeroes.js)
+
+28. 编写一个算法来判断一个数是不是“快乐数”。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/202.happy-number.js)
