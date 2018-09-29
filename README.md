@@ -57,3 +57,5 @@
 27. 给定一个整数 n，返回 n! 结果尾数中零的数量。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/172.factorial-trailing-zeroes.js)
 
 28. 编写一个算法来判断一个数是不是“快乐数”。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/202.happy-number.js)
+
+29. 统计所有小于非负整数  n  的质数的数量。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/204.count-primes.python3.js)
