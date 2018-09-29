@@ -58,6 +58,6 @@
 
 28. 编写一个算法来判断一个数是不是“快乐数”。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/202.happy-number.js)
 
-29. 统计所有小于非负整数  n  的质数的数量。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/204.count-primes.python3.js)
+29. 统计所有小于非负整数  n  的质数的数量。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/204.count-primes.python3.py)
 
-30. 给定两个字符串  s  和  t，判断它们是否是同构的。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/205.isomorphic-strings.python3.js)
+30. 给定两个字符串  s  和  t，判断它们是否是同构的。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/205.isomorphic-strings.python3.py)
