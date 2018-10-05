@@ -38,7 +38,7 @@ var containsNearbyDuplicate = function(nums, k) {
     item
     for (let i = 0; i < nums.length; i++) {
         item = nums[i]
-        if(obj[item]!= undefined && i - obj[item]<=k){
+        if(obj[item]!= undefined && i - obj[item]<=k){ //判断是否是重复的值，并且是否满足差值小于等于k的条件
             return true
         }
         obj[item] = i //把值和索引值存进这个对象里面
