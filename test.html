@@ -10,12 +10,21 @@
 
 <body>
     <script>
-        var plusOne = function (digits) {
-            for (let i = digits.length - 1; i < digits.length; i--) {
-                console.log(digits[i])
+        var isPowerOfTwo = function (n) {
+            let m = n / 2
+            if (n <= 0) return false
+            if (n == 1 || n == 2 || m == 1) return true
+
+            while (m % 2 == 0) {
+                m = m / 2
+                if (m == 1) {
+                    return true
+                }
             }
+            return false
         }
-        plusOne([6, 1, 4, 5, 3, 9, 0, 1, 9, 5, 1, 8, 6, 7, 0, 5, 5, 4, 3])
+
+        // console.log(isPowerOfTwo(16))
 
 
 
