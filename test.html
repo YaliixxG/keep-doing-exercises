@@ -10,26 +10,68 @@
 
 <body>
     <script>
-        var isPowerOfTwo = function (n) {
-            let m = n / 2
-            if (n <= 0) return false
-            if (n == 1 || n == 2 || m == 1) return true
+        // function shellSort(arr) {
+        //     var len = arr.length,
+        //         temp,
+        //         gap = 1;
+        //     while (gap < len / 3) {          //动态定义间隔序列
+        //         gap = gap * 3 + 1;
 
-            while (m % 2 == 0) {
-                m = m / 2
-                if (m == 1) {
-                    return true
-                }
+        //     }
+        //     for (gap; gap > 0; gap = Math.floor(gap / 3)) {
+        //         console.log('gap', gap)
+        //         for (var i = gap; i < len; i++) {
+        //             console.log('i', i)
+        //             temp = arr[i];
+        //             console.log('temp', temp)
+        //             for (var j = i - gap; j >= 0 && arr[j] > temp; j -= gap) {
+        //                 arr[j + gap] = arr[j];
+        //                 console.log('111arr[j + gap]', j, gap)
+        //             }
+        //             arr[j + gap] = temp;
+        //             console.log('arr[j + gap]', j, gap)
+        //         }
+        //     }
+        //     return arr;
+        // }
+
+        // console.log(shellSort([49, 38, 65, 97, 76, 13, 27, 48, 55, 4]))
+
+
+        function mergeSort(arr) {  // 采用自上而下的递归方法
+            var len = arr.length;
+            if (len < 2) {
+                return arr;
             }
-            return false
+            var middle = Math.floor(len / 2),
+                left = arr.slice(0, middle),
+                right = arr.slice(middle);
+            return merge(mergeSort(left), mergeSort(right));
         }
 
-        // console.log(isPowerOfTwo(16))
+        function merge(left, right) {
+            console.log('left', left, 'right', right)
+            var result = [];
 
 
+            while (left.length && right.length) {
+                if (left[0] <= right[0]) {
+                    result.push(left.shift());
+                } else {
+                    result.push(right.shift());
+                }
+            }
 
+            while (left.length)
+                result.push(left.shift());
 
+            while (right.length)
+                result.push(right.shift());
 
+            return result;
+        }
+
+        console.log(mergeSort([4, 9, 2, 5, 3, 7]))
 
 
 

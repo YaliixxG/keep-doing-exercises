@@ -65,3 +65,5 @@
 31. 给定一个整数数组和一个整数  k，判断数组中是否存在两个不同的索引  i  和  j，使得  nums [i] = nums [j]，并且 i 和 j 的差的绝对值最大为 k。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/219.contains-duplicate-ii.py)
 
 32. 给定一个整数，编写一个函数来判断它是否是 2 的幂次方。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/231.power-of-two.js)
+
+33. 编写一个程序判断给定的数是否为丑数。丑数就是只包含质因数  2, 3, 5  的正整数。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/263.ugly-number.js)
