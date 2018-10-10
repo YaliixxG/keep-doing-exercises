@@ -36,13 +36,26 @@ let compare = (a, b) => {
   return a - b
 }
 
+// var missingNumber = function(nums) {
+//   nums.sort(compare)
+//     if (nums[nums.length - 1] != nums.length) return nums.length
+
+//   for (let i = 0; i < nums.length; i++) {
+//     if (i != nums[i]) {
+//       return i
+//     }
+//   }
+// }
+
 var missingNumber = function(nums) {
   nums.sort(compare)
-  if (nums[nums.length - 1] != nums.length) return nums.length
-
-  for (let i = 0; i < nums.length; i++) {
+  i = 0
+  while (i < nums.length) {
     if (i != nums[i]) {
       return i
+    } else {
+      i = i + 1
     }
   }
+  return i
 }
