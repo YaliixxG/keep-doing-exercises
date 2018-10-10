@@ -69,3 +69,5 @@
 33. 编写一个程序判断给定的数是否为丑数。丑数就是只包含质因数  2, 3, 5  的正整数。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/263.ugly-number.js)
 
 34. 给定一个包含 0, 1, 2, ..., n  中  n  个数的序列，找出 0 .. n  中没有出现在序列中的那个数。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/268.missing-number.js)
+
+35. 你和你的朋友，两个人一起玩  Nim 游戏：桌子上有一堆石头，每次你们轮流拿掉  1 - 3 块石头。 拿掉最后一块石头的人就是获胜者。你作为先手。你们是聪明人，每一步都是最优解。 编写一个函数，来判断你是否可以在给定石头数量的情况下赢得游戏。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/292.nim-game.js)
