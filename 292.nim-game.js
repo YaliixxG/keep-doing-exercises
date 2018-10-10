@@ -27,6 +27,5 @@
  * @return {boolean}
  */
 var canWinNim = function(n) {
-  if (n <= 0 || n % 4 == 0) return false
-  return true
+  return n % 4 == 0 ? false : true
 }
