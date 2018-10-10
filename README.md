@@ -67,3 +67,5 @@
 32. 给定一个整数，编写一个函数来判断它是否是 2 的幂次方。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/231.power-of-two.js)
 
 33. 编写一个程序判断给定的数是否为丑数。丑数就是只包含质因数  2, 3, 5  的正整数。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/263.ugly-number.js)
+
+34. 给定一个包含 0, 1, 2, ..., n  中  n  个数的序列，找出 0 .. n  中没有出现在序列中的那个数。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/268.missing-number.js)
