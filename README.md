@@ -77,3 +77,5 @@
 37. 给定一个整数，写一个函数来判断它是否是 3  的幂次方。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/326.power-of-three.js)
 
 38. 给定一个整数，写一个函数来判断它是否是 4  的幂次方。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/342.power-of-four.js)
+
+39. 编写一个函数，其作用是将输入的字符串反转过来。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/344.reverse-string.python3.py)
