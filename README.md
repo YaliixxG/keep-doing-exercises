@@ -75,3 +75,5 @@
 36. 给定一个整数数组  nums，求出数组从索引  i  到  j  (i ≤ j) 范围内元素的总和，包含  i,  j  两点。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/303.range-sum-query-immutable.python3.py)
 
 37. 给定一个整数，写一个函数来判断它是否是 3  的幂次方。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/326.power-of-three.js)
+
+38. 给定一个整数，写一个函数来判断它是否是 4  的幂次方。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/342.power-of-four.js)
