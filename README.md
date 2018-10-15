@@ -73,3 +73,5 @@
 35. 你和你的朋友，两个人一起玩  Nim 游戏：桌子上有一堆石头，每次你们轮流拿掉  1 - 3 块石头。 拿掉最后一块石头的人就是获胜者。你作为先手。你们是聪明人，每一步都是最优解。 编写一个函数，来判断你是否可以在给定石头数量的情况下赢得游戏。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/292.nim-game.js)
 
 36. 给定一个整数数组  nums，求出数组从索引  i  到  j  (i ≤ j) 范围内元素的总和，包含  i,  j  两点。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/303.range-sum-query-immutable.python3.py)
+
+37. 给定一个整数，写一个函数来判断它是否是 3  的幂次方。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/326.power-of-three.js)
