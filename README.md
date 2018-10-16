@@ -1,6 +1,6 @@
 # keep-doing-exercises
 
-#### 记录下自己做的题目（以以下的题目序号和链接为准）。
+#### 记录下自己做的题目（以以下的题目序号和链接为准，主要用 javascript 和 python3 语言）。
 
 1. 给定一个整数数组和一个目标值，找出数组中和为目标值的两个数。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/1.two-sum.js)
 
@@ -79,3 +79,5 @@
 38. 给定一个整数，写一个函数来判断它是否是 4  的幂次方。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/342.power-of-four.js)
 
 39. 编写一个函数，其作用是将输入的字符串反转过来。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/344.reverse-string.python3.py)
+
+40. 给定两个数组，编写一个函数来计算它们的交集。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/349.intersection-of-two-arrays.python3.py)
