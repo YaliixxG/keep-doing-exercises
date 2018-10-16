@@ -81,3 +81,5 @@
 39. 编写一个函数，其作用是将输入的字符串反转过来。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/344.reverse-string.python3.py)
 
 40. 给定两个数组，编写一个函数来计算它们的交集。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/349.intersection-of-two-arrays.python3.py)
+
+41. 输出结果中每个元素出现的次数，应与元素在两个数组中出现的次数一致。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/350.intersection-of-two-arrays-ii.python3.py)
