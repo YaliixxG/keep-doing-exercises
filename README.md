@@ -83,3 +83,5 @@
 40. 给定两个数组，编写一个函数来计算它们的交集。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/349.intersection-of-two-arrays.python3.py)
 
 41. 输出结果中每个元素出现的次数，应与元素在两个数组中出现的次数一致。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/350.intersection-of-two-arrays-ii.python3.py)
+
+42. 给定一个正整数 num，编写一个函数，如果 num 是一个完全平方数，则返回 True，否则返回 False。不要使用任何内置的库函数，如   sqrt。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/367.valid-perfect-square.python3.py)
