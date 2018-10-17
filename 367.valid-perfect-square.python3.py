@@ -26,9 +26,6 @@
 #
 #
 
-import math
-
-
 class Solution:
     def isPerfectSquare(self, num):
         """
