@@ -87,3 +87,7 @@
 42. 给定一个正整数 num，编写一个函数，如果 num 是一个完全平方数，则返回 True，否则返回 False。不要使用任何内置的库函数，如   sqrt。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/367.valid-perfect-square.python3.py)
 
 43. 不使用运算符  + 和  - ​​​​​​​，计算两整数  ​​​​​​​a 、b ​​​​​​​ 之和。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/371.sum-of-two-integers.python3.py)
+
+44. 不使用运算符  + 和  - ​​​​​​​，计算两整数  ​​​​​​​a 、b ​​​​​​​ 之和。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/371.sum-of-two-integers.python3.py)
+
+45. 给定一个赎金信 (ransom)字符串和一个杂志(magazine)字符串，判断第一个字符串 ransom 能不能由第二个字符串 magazines 里面的字符构成。如果可以构成，返回 true ；否则返回 false。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/383.ransom-note.py)
