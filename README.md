@@ -97,3 +97,5 @@
 47. 给定两个字符串 s 和 t，它们只包含小写字母。字符串  t  由字符串  s  随机重排，然后在随机位置添加一个字母。请找出在 t 中被添加的字母。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/389.find-the-difference.js)
 
 48. 给定一个非空数组，返回此数组中第三大的数。如果不存在，则返回数组中最大的数。要求算法时间复杂度必须是 O(n)。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/414.third-maximum-number.python3.py)
+
+49. 给定两个字符串形式的非负整数  num1 和 num2 ，计算它们的和。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/415.add-strings.python3.py)
