@@ -99,3 +99,5 @@
 48. 给定两个字符串形式的非负整数  num1 和 num2 ，计算它们的和。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/415.add-strings.python3.py)
 
 49. 给定一个范围在   1 ≤ a[i] ≤ n ( n = 数组大小 ) 的 整型数组，数组中的元素一些出现了两次，另一些只出现一次。找到所有在 [1, n] 范围之间没有出现在数组中的数字。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/448.find-all-numbers-disappeared-in-an-array.python3.py)
+
+50. 给定一个长度为 n 的非空整数数组，找到让数组所有元素相等的最小移动次数。每次移动可以使 n - 1 个元素增加 1。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/453.minimum-moves-to-equal-array-elements.python3.py)
