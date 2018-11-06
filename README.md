@@ -88,14 +88,14 @@
 
 43. 不使用运算符  + 和  - ​​​​​​​，计算两整数  ​​​​​​​a 、b ​​​​​​​ 之和。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/371.sum-of-two-integers.python3.py)
 
-44. 不使用运算符  + 和  - ​​​​​​​，计算两整数  ​​​​​​​a 、b ​​​​​​​ 之和。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/371.sum-of-two-integers.python3.py)
+44. 给定一个赎金信 (ransom)字符串和一个杂志(magazine)字符串，判断第一个字符串 ransom 能不能由第二个字符串 magazines 里面的字符构成。如果可以构成，返回 true ；否则返回 false。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/383.ransom-note.py)
 
-45. 给定一个赎金信 (ransom)字符串和一个杂志(magazine)字符串，判断第一个字符串 ransom 能不能由第二个字符串 magazines 里面的字符构成。如果可以构成，返回 true ；否则返回 false。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/383.ransom-note.py)
+45. 给定一个字符串，找到它的第一个不重复的字符，并返回它的索引。如果不存在，则返回 -1。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/387.first-unique-character-in-a-string.js)
 
-46. 给定一个字符串，找到它的第一个不重复的字符，并返回它的索引。如果不存在，则返回 -1。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/387.first-unique-character-in-a-string.js)
+46. 给定两个字符串 s 和 t，它们只包含小写字母。字符串  t  由字符串  s  随机重排，然后在随机位置添加一个字母。请找出在 t 中被添加的字母。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/389.find-the-difference.js)
 
-47. 给定两个字符串 s 和 t，它们只包含小写字母。字符串  t  由字符串  s  随机重排，然后在随机位置添加一个字母。请找出在 t 中被添加的字母。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/389.find-the-difference.js)
+47. 给定一个非空数组，返回此数组中第三大的数。如果不存在，则返回数组中最大的数。要求算法时间复杂度必须是 O(n)。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/414.third-maximum-number.python3.py)
 
-48. 给定一个非空数组，返回此数组中第三大的数。如果不存在，则返回数组中最大的数。要求算法时间复杂度必须是 O(n)。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/414.third-maximum-number.python3.py)
+48. 给定两个字符串形式的非负整数  num1 和 num2 ，计算它们的和。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/415.add-strings.python3.py)
 
-49. 给定两个字符串形式的非负整数  num1 和 num2 ，计算它们的和。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/415.add-strings.python3.py)
+49. 给定一个范围在   1 ≤ a[i] ≤ n ( n = 数组大小 ) 的 整型数组，数组中的元素一些出现了两次，另一些只出现一次。找到所有在 [1, n] 范围之间没有出现在数组中的数字。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/448.find-all-numbers-disappeared-in-an-array.python3.py)
