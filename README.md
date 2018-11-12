@@ -101,3 +101,5 @@
 49. 给定一个范围在   1 ≤ a[i] ≤ n ( n = 数组大小 ) 的 整型数组，数组中的元素一些出现了两次，另一些只出现一次。找到所有在 [1, n] 范围之间没有出现在数组中的数字。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/448.find-all-numbers-disappeared-in-an-array.python3.py)
 
 50. 给定一个长度为 n 的非空整数数组，找到让数组所有元素相等的最小移动次数。每次移动可以使 n - 1 个元素增加 1。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/453.minimum-moves-to-equal-array-elements.python3.py)
+
+51. 假设你是一位很棒的家长，想要给你的孩子们一些小饼干。但是，每个孩子最多只能给一块饼干。对每个孩子 i ，都有一个胃口值  gi，这是能让孩子们满足胃口的饼干的最小尺寸；并且每块饼干 j ，都有一个尺寸 sj 。如果 sj >= gi ，我们可以将这个饼干 j 分配给孩子 i，这个孩子会得到满足。你的目标是尽可能满足越多数量的孩子，并输出这个最大数值。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/455.assign-cookies.python3.py)
