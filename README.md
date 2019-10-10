@@ -1,3 +1,8 @@
+<!--
+ * @Description: 记录
+ * @Date: 2019-05-27 17:48:31
+ * @LastEditTime: 2019-10-10 15:49:26
+ -->
 # keep-doing-exercises
 
 #### 记录下自己做的题目（以以下的题目序号和链接为准，主要用 javascript 和 python3 语言）。
@@ -103,3 +108,6 @@
 50. 给定一个长度为 n 的非空整数数组，找到让数组所有元素相等的最小移动次数。每次移动可以使 n - 1 个元素增加 1。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/453.minimum-moves-to-equal-array-elements.python3.py)
 
 51. 假设你是一位很棒的家长，想要给你的孩子们一些小饼干。但是，每个孩子最多只能给一块饼干。对每个孩子 i ，都有一个胃口值  gi，这是能让孩子们满足胃口的饼干的最小尺寸；并且每块饼干 j ，都有一个尺寸 sj 。如果 sj >= gi ，我们可以将这个饼干 j 分配给孩子 i，这个孩子会得到满足。你的目标是尽可能满足越多数量的孩子，并输出这个最大数值。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/455.assign-cookies.python3.py)
+
+52. 集合 S 包含从1到 n 的整数。不幸的是，因为数据错误，导致集合里面某一个元素复制了成了集合里面的另外一个元素的值，导致集合丢失了一个整数并且有一个元素重复。
+给定一个数组 nums 代表了集合 S 发生错误后的结果。你的任务是首先寻找到重复出现的整数，再找到丢失的整数，将它们以数组的形式返回。[解答](https://github.com/YaliixxG/keep-doing-exercises/blob/master/645.set-mismatch.python3.js)
